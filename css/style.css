@@ -1960,3 +1960,9 @@ text-align:center;
     background-color:#F08080;  
     color:#F00;  
 }  
+.div-hover{
+	background-color: #fff;
+}
+.div-hover:hover{
+	background-color: rgba(26, 230, 230, 0.1);
+}
